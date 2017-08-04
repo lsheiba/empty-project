@@ -8,3 +8,8 @@
   Name: cluster-02
   Provider: google
   Src: cluster-02.yaml
+- Account: garage
+  AutoDeploy: false
+  Name: cluster-03
+  Provider: kubernetes
+  Src: cluster-03.yaml
