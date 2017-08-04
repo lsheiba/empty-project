@@ -3,3 +3,8 @@
   Name: cluster-01
   Provider: amazon
   Src: cluster-01.yaml
+- Account: keberlab-test
+  AutoDeploy: false
+  Name: cluster-02
+  Provider: google
+  Src: cluster-02.yaml
