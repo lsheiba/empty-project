@@ -1,0 +1,5 @@
+- Account: "788157744186"
+  AutoDeploy: false
+  Name: cluster-01
+  Provider: amazon
+  Src: cluster-01.yaml
